@@ -15,7 +15,7 @@ const clouds = document.querySelector('span.clouds');
 
 const apiInfo = {
     link: 'https://api.openweathermap.org/data/2.5/weather?q=',
-    key: '&appid=f9004f0ceef8ac703025ecd04b017e91',
+    key: ,
     units: '&units=metric',
     lang: '&lang=pl'
 }
