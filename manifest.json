@@ -1,0 +1,17 @@
+{
+  "name": "Aplikacja pogodowa",
+  "short_name": "weatherAPP",
+  "theme_color": "#f38e22",
+  "background_color": "#ececec",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/ZTI/",
+  "icons" : [
+    {
+        "src" : "./icon.png",
+        "sizes" : "512x512",
+        "type" : "image/png"
+    }
+  ]
+}
